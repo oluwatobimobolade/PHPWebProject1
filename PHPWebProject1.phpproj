@@ -1,0 +1,13 @@
+<Project Sdk="Devsense.Php.Sdk">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>1448cfc2-b08b-4b3b-b12f-98a57de83ab2</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnvName>PHPDev</EnvName>
+    <RuntimeVersion>8.2</RuntimeVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="C:\Users\Digikey\OneDrive\Desktop\moment of encounter\test index.html" Link="test index.html" />
+    <Content Include="C:\Users\Digikey\OneDrive\Desktop\moment of encounter\updated index.html" Link="updated index.html" />
+  </ItemGroup>
+</Project>
